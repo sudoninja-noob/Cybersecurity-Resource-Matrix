@@ -163,7 +163,7 @@ cd cybersec-resource-matrix
 
 **GitHub Pages:** Settings → Pages → Source: main → / (root) → Save
 
-Live at: `https://sudoninja-noob.github.io/cybersec-resource-matrix/`
+Live at: `https://sudoninja-noob.github.io/Cybersecurity-Resource-Matrix/`
 
 ---
 
