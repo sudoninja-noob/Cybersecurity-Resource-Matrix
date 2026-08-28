@@ -187,8 +187,7 @@ cybersec-resource-matrix/
 ## 👤 Author
 
 **Sanjay Singh** · `@sudoninja`
-Senior Manager, Cyber Security Services — SGS Brightsight
-Bengaluru, India
+Senior Manager, Cyber Security Services —Bengaluru, India
 
 | | |
 |--|--|
