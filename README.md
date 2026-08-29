@@ -12,7 +12,7 @@
 
 *Built by [@sudoninja](https://github.com/sudoninja-noob) · Senior Manager, Cyber Security Services · SGS Brightsight · Bengaluru*
 
-**[🌐 Live Site](https://sudoninja-noob.github.io/cybersec-resource-matrix/) · [🦈 SudoShark](https://sudoninja-noob.github.io/sudoshark/) · [📁 Browse Domains](./domains/)**
+**[🌐 Live Site](https://sudoninja-noob.github.io/Cybersecurity-Resource-Matrix/) · [🦈 SudoShark](https://sudoninja-noob.github.io/sudoshark/) · [📁 Browse Domains](./domains/)**
 
 </div>
 
